@@ -8,11 +8,11 @@ Microsoft Defender for Cloud is essential for keeping cloud environments secure.
 The NIST 800-53 framework is important for keeping organizations' information systems secure. It offers a set of guidelines to protect against various threats, helping organizations safeguard sensitive data and comply with regulations. By following these guidelines, organizations can identify and reduce risks, making their digital operations more secure and reliable.
 
 <h2>Steps</h2>
-<br>1. Regulatory compliance </br>
-<br>2. regulatory compliance </br>
-<br>3. Manage compliance standards </br>
+<br>1. Click Regulatory compliance </br>
+<br>2. Click Regulatory compliance </br>
+<br>3. Click Manage compliance standards </br>
 <br>4. click “subscriptions" </br>
-<br>5. security policy  click “NIST 800-53 rev 5” </br>
+<br>5. security policy click “NIST 800-53 rev 5” </br>
 
 <br>- the point of this is for azure to looked at our environment and compared it to 800-53 controls and provided us with findings.</br>
   <img src="https://imgur.com/bJskdzG.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
